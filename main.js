@@ -1,5 +1,3 @@
-// ** Without Express.js
-
 const axios = require("axios");
 const fs = require("node:fs");
 const cheerio = require("cheerio");
