@@ -16,13 +16,13 @@ This project is a solution for a web scraping task . The goal of this project is
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://git@github.com:AbdooMEid/scraping-data.git
+   cd scraping-data
    
 2. Install dependencies:
-  ```bash
+   ```bash
    npm install
-   ```
+   
 4. Run the scraper:
    ```bash
    node main.js
