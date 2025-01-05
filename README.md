@@ -20,7 +20,7 @@ This project is a solution for a web scraping task . The goal of this project is
    cd your-repo-name
    
 2. Install dependencies:
- ```bash
+  ```bash
    npm install
    ```
 4. Run the scraper:

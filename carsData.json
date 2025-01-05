@@ -1,0 +1,382 @@
+{
+  "cars": [
+    {
+      "title": "MercedesCitan",
+      "price": "$28,370",
+      "location": "GERMANY",
+      "description": "136g co2/km (komb.),5.2l/100km (komb.)",
+      "localTime": "1/03/2025"
+    },
+    {
+      "title": "MercedesS-class300 sel",
+      "price": "$80,000",
+      "location": "NEW YORK",
+      "description": "1970 mercedes-benz 300sel",
+      "localTime": "7/25/2024"
+    },
+    {
+      "title": "MercedesG-classG 63 amg",
+      "price": "$145,995",
+      "location": "NEW YORK",
+      "description": "2020 mercedes-benz g-class amg g 63",
+      "localTime": "11/14/2024"
+    },
+    {
+      "title": "MercedesGle",
+      "price": "$70,995",
+      "location": "NEW YORK",
+      "description": "2023 mercedes-benz gle amg gle 53",
+      "localTime": "10/18/2024"
+    },
+    {
+      "title": "MercedesS-class500 sel",
+      "price": "$8,100",
+      "location": "NEW YORK",
+      "description": "1985 mercedes-benz 500 500sel for sale by owner",
+      "localTime": "12/27/2024"
+    },
+    {
+      "title": "MercedesE-classE 350",
+      "price": "$13,500",
+      "location": "NEW YORK",
+      "description": "2015 mercedes benz e350 for sale by owner",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesSprinter",
+      "price": "$10,990",
+      "location": "NEW YORK",
+      "description": "2011 mercedes-benz sprinter 2500 diesel for sale by owner",
+      "localTime": "12/20/2024"
+    },
+    {
+      "title": "MercedesCls-classCls 5504MATIC",
+      "price": "$11,995",
+      "location": "NEW YORK",
+      "description": "2012 mercedes-benz cls-class for sale",
+      "localTime": "12/03/2024"
+    },
+    {
+      "title": "MercedesM-class4MATIC",
+      "price": "$13,661",
+      "location": "NEW JERSEY",
+      "description": "2015 mercedes-benz m-class 4matic",
+      "localTime": "1/03/2025"
+    },
+    {
+      "title": "MercedesA-classA 2202.0",
+      "price": "$15,995",
+      "location": "NEW JERSEY",
+      "description": "2019 mercedes-benz a-class a 220",
+      "localTime": "12/01/2024"
+    },
+    {
+      "title": "MercedesA-class4MATIC",
+      "price": "$15,700",
+      "location": "NEW JERSEY",
+      "description": "2019 mercedes-benz a-class 4matic",
+      "localTime": "11/30/2024"
+    },
+    {
+      "title": "MercedesE-class4MATIC",
+      "price": "$13,795",
+      "location": "NEW JERSEY",
+      "description": "2016 mercedes-benz e-class 4matic",
+      "localTime": "10/25/2024"
+    },
+    {
+      "title": "MercedesE-classE 350",
+      "price": "$13,795",
+      "location": "NEW JERSEY",
+      "description": "2016 mercedes-benz e-class e 350",
+      "localTime": "9/07/2024"
+    },
+    {
+      "title": "MercedesC-classC 3002.0",
+      "price": "$11,999",
+      "location": "NEW YORK",
+      "description": "2016 mercedes-benz c-class c 300",
+      "localTime": "7/23/2024"
+    },
+    {
+      "title": "MercedesGlb 2502.0",
+      "price": "$19,650",
+      "location": "NEW JERSEY",
+      "description": "2020 mercedes-benz glb 250",
+      "localTime": "7/23/2024"
+    },
+    {
+      "title": "MercedesC-classC 3002.0",
+      "price": "$20,250",
+      "location": "NEW JERSEY",
+      "description": "2021 mercedes-benz c-class c 300",
+      "localTime": "7/23/2024"
+    },
+    {
+      "title": "MercedesGlk 350",
+      "price": "$10,996",
+      "location": "NEW JERSEY",
+      "description": "2013 mercedes-benz glk 350",
+      "localTime": "12/20/2024"
+    },
+    {
+      "title": "MercedesSl-classSl 450",
+      "price": "$48,998",
+      "location": "NEW JERSEY",
+      "description": "2020 mercedes-benz sl 450 sl 450",
+      "localTime": "9/20/2024"
+    },
+    {
+      "title": "MercedesGlk 350",
+      "price": "$11,436",
+      "location": "NEW JERSEY",
+      "description": "2013 mercedes-benz glk 350",
+      "localTime": "9/12/2024"
+    },
+    {
+      "title": "MercedesGlc coupe4MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2020 mercedes-benz amg glc 63 s 4matic+ coupe",
+      "localTime": "1/05/2025"
+    },
+    {
+      "title": "MercedesGlc 3002.0",
+      "price": "$59,640",
+      "location": "NEW YORK",
+      "description": "2025 mercedes-benz glc 300",
+      "localTime": "1/05/2025"
+    },
+    {
+      "title": "MercedesE-class4MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2020 mercedes-benz e-class 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesE-class4MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2021 mercedes-benz e-class 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesGlc 3004MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2022 mercedes-benz glc 300 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesEqb 3004MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2023 mercedes-benz eqb 300 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesGle 3504MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2023 mercedes-benz gle 350 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesCitan",
+      "price": "$28,370",
+      "location": "GERMANY",
+      "description": "136g co2/km (komb.),5.2l/100km (komb.)",
+      "localTime": "1/03/2025"
+    },
+    {
+      "title": "MercedesCitan",
+      "price": "$28,370",
+      "location": "GERMANY",
+      "description": "136g co2/km (komb.),5.2l/100km (komb.)",
+      "localTime": "1/03/2025"
+    },
+    {
+      "title": "MercedesS-class300 sel",
+      "price": "$80,000",
+      "location": "NEW YORK",
+      "description": "1970 mercedes-benz 300sel",
+      "localTime": "7/25/2024"
+    },
+    {
+      "title": "MercedesG-classG 63 amg",
+      "price": "$145,995",
+      "location": "NEW YORK",
+      "description": "2020 mercedes-benz g-class amg g 63",
+      "localTime": "11/14/2024"
+    },
+    {
+      "title": "MercedesGle",
+      "price": "$70,995",
+      "location": "NEW YORK",
+      "description": "2023 mercedes-benz gle amg gle 53",
+      "localTime": "10/18/2024"
+    },
+    {
+      "title": "MercedesS-class500 sel",
+      "price": "$8,100",
+      "location": "NEW YORK",
+      "description": "1985 mercedes-benz 500 500sel for sale by owner",
+      "localTime": "12/27/2024"
+    },
+    {
+      "title": "MercedesE-classE 350",
+      "price": "$13,500",
+      "location": "NEW YORK",
+      "description": "2015 mercedes benz e350 for sale by owner",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesSprinter",
+      "price": "$10,990",
+      "location": "NEW YORK",
+      "description": "2011 mercedes-benz sprinter 2500 diesel for sale by owner",
+      "localTime": "12/20/2024"
+    },
+    {
+      "title": "MercedesCls-classCls 5504MATIC",
+      "price": "$11,995",
+      "location": "NEW YORK",
+      "description": "2012 mercedes-benz cls-class for sale",
+      "localTime": "12/03/2024"
+    },
+    {
+      "title": "MercedesM-class4MATIC",
+      "price": "$13,661",
+      "location": "NEW JERSEY",
+      "description": "2015 mercedes-benz m-class 4matic",
+      "localTime": "1/03/2025"
+    },
+    {
+      "title": "MercedesA-classA 2202.0",
+      "price": "$15,995",
+      "location": "NEW JERSEY",
+      "description": "2019 mercedes-benz a-class a 220",
+      "localTime": "12/01/2024"
+    },
+    {
+      "title": "MercedesA-class4MATIC",
+      "price": "$15,700",
+      "location": "NEW JERSEY",
+      "description": "2019 mercedes-benz a-class 4matic",
+      "localTime": "11/30/2024"
+    },
+    {
+      "title": "MercedesE-class4MATIC",
+      "price": "$13,795",
+      "location": "NEW JERSEY",
+      "description": "2016 mercedes-benz e-class 4matic",
+      "localTime": "10/25/2024"
+    },
+    {
+      "title": "MercedesE-classE 350",
+      "price": "$13,795",
+      "location": "NEW JERSEY",
+      "description": "2016 mercedes-benz e-class e 350",
+      "localTime": "9/07/2024"
+    },
+    {
+      "title": "MercedesC-classC 3002.0",
+      "price": "$11,999",
+      "location": "NEW YORK",
+      "description": "2016 mercedes-benz c-class c 300",
+      "localTime": "7/23/2024"
+    },
+    {
+      "title": "MercedesGlb 2502.0",
+      "price": "$19,650",
+      "location": "NEW JERSEY",
+      "description": "2020 mercedes-benz glb 250",
+      "localTime": "7/23/2024"
+    },
+    {
+      "title": "MercedesC-classC 3002.0",
+      "price": "$20,250",
+      "location": "NEW JERSEY",
+      "description": "2021 mercedes-benz c-class c 300",
+      "localTime": "7/23/2024"
+    },
+    {
+      "title": "MercedesGlk 350",
+      "price": "$10,996",
+      "location": "NEW JERSEY",
+      "description": "2013 mercedes-benz glk 350",
+      "localTime": "12/20/2024"
+    },
+    {
+      "title": "MercedesSl-classSl 450",
+      "price": "$48,998",
+      "location": "NEW JERSEY",
+      "description": "2020 mercedes-benz sl 450 sl 450",
+      "localTime": "9/20/2024"
+    },
+    {
+      "title": "MercedesGlk 350",
+      "price": "$11,436",
+      "location": "NEW JERSEY",
+      "description": "2013 mercedes-benz glk 350",
+      "localTime": "9/12/2024"
+    },
+    {
+      "title": "MercedesGlc coupe4MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2020 mercedes-benz amg glc 63 s 4matic+ coupe",
+      "localTime": "1/05/2025"
+    },
+    {
+      "title": "MercedesGlc 3002.0",
+      "price": "$59,640",
+      "location": "NEW YORK",
+      "description": "2025 mercedes-benz glc 300",
+      "localTime": "1/05/2025"
+    },
+    {
+      "title": "MercedesE-class4MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2020 mercedes-benz e-class 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesE-class4MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2021 mercedes-benz e-class 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesGlc 3004MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2022 mercedes-benz glc 300 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesEqb 3004MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2023 mercedes-benz eqb 300 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesGle 3504MATIC",
+      "price": "POA",
+      "location": "NEW YORK",
+      "description": "2023 mercedes-benz gle 350 4matic",
+      "localTime": "1/04/2025"
+    },
+    {
+      "title": "MercedesCitan",
+      "price": "$28,370",
+      "location": "GERMANY",
+      "description": "136g co2/km (komb.),5.2l/100km (komb.)",
+      "localTime": "1/03/2025"
+    }
+  ]
+}
