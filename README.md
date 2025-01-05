@@ -16,11 +16,7 @@ This project is a solution for a web scraping task . The goal of this project is
 ## How to Run
 1. Clone the repository:
    ```bash
-<<<<<<< HEAD
-   git clone git@github.com:AbdooMEid/scraping-data.git
-=======
    git clone https://git@github.com:AbdooMEid/scraping-data.git
->>>>>>> 0f8745144577fc06814a9e2c4ea8acb2276ba582
    cd scraping-data
    
 2. Install dependencies:
